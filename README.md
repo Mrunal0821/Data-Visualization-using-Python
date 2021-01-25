@@ -1,0 +1,2 @@
+# Data-Visualization-using-Python
+This is a tool made using python where user can plot and visualize the data using various plots and graphs. User can import the data source in csv data file format and select the data which is to be visualized. The tool supports six types of charts which can be used for plotting the data- Bar Charts, Line Graphs, Pie Charts, Box Plots, Scatter Plots and Scatter Plots with Simple Regression Analysis.
